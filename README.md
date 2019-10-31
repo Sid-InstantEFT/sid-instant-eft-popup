@@ -10,4 +10,3 @@ This package is hosted in Bower, and can be insalled using the below command
 ```
 $ Bower install sid-instant-eft-popup --save
 ```
-Here is the [documentation](https://bower.io/docs/creating-packages/) on creating a bower package

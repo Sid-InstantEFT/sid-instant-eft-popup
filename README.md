@@ -1,4 +1,5 @@
-This repository is for merchants to download and use our popup function. They can either download the files directly or install it using bower.
+This repository contains javascript functions, allowing merchants to easily integrate with [SID Instant EFT](https://sidpayment.com/).
+These files can be downloaded directly from this repository or can be installed using bower.
 
 # Files #
 * sidPopup.js
